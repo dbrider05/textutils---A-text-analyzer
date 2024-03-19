@@ -62,9 +62,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+<img width="1280" alt="Screenshot 2024-03-19 at 2 47 32 PM" src="https://github.com/dbrider05/textutils/assets/89606005/0d8837b9-c376-4c32-aa76-500c8724d816">
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1280" alt="Screenshot 2024-03-19 at 2 46 59 PM" src="https://github.com/dbrider05/textutils/assets/89606005/5c5819c1-a347-49cf-8840-b1dbd9addbe4">
+
+<img width="1280" alt="Screenshot 2024-03-19 at 2 47 32 PM" src="https://github.com/dbrider05/textutils/assets/89606005/151be97d-ca48-49f5-98b8-3139966fd06c">
